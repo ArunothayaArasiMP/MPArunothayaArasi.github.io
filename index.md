@@ -7,18 +7,18 @@ title: Home
 
 **B.B.A. LL.B (Hons.) | Legal Researcher | AI & Law Enthusiast**
 
-📧 mpaa2310@gmail.com  
-📞 +91 6379296289  
+mpaa2310@gmail.com  
++91 6379296289  
 
 ---
 
-## 👩‍⚖️ About Me
+## About Me
 
 Final year B.B.A. LL.B (Hons.) student at SASTRA Deemed University with strong interest in Constitutional Law, Corporate Law, and Artificial Intelligence & Law. Passionate about legal research, drafting, and policy analysis.
 
 ---
 
-## 🎓 Academic Qualifications
+## Academic Qualifications
 
 **B.B.A. LL.B (Hons.) – Law**  
 SASTRA Deemed University (2021–2026)
@@ -33,7 +33,7 @@ State Board | 93.2% | 2018
 
 ---
 
-## 💼 Internships
+## Internships
 
 - Chamber of Adv. M. Michael Bharathi (Aug 2022)
 - Chamber of Adv. M. Michael Bharathi (Jan–Feb 2023)
@@ -41,7 +41,7 @@ State Board | 93.2% | 2018
 - Chamber of Adv. M. Michael Bharathi (Jun–Jul 2024)
 - Chamber of Adv. J. Joel Nitheesh, Chennai (Jun–Jul 2025)
 
-👉 [View Detailed Internship Experience](internships.html)
+[View Detailed Internship Experience](internships.html)
 
 ---
 
@@ -54,11 +54,11 @@ State Board | 93.2% | 2018
 - AI and Military Surveillance: Balancing National Security with Civil Liberty
 - The Abuse of Patent Pools in India
 
-👉 [Read More](publications.html)
+[Read More](publications.html)
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - Legal Research
 - Drafting & Pleadings
@@ -68,13 +68,13 @@ State Board | 93.2% | 2018
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - English – Professional Working Proficiency  
 - Tamil – Read & Speak  
 
 ---
 
-## 📬 Contact
+## Contact
 
-👉 [Get in Touch](contact.html)
+[Get in Touch](contact.html)
