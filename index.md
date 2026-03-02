@@ -45,7 +45,7 @@ State Board | 93.2% | 2018
 
 ---
 
-## 📚 Publications
+## Publications
 
 - Is Hindu Marriage Still Considered Sacramental?
 - Laws on Protection of Whistle Blowers
